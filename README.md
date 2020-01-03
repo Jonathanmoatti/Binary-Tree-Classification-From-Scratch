@@ -1,2 +1,2 @@
-# Binary-Tree-Classification-From-Scratch
+# Binary-Tree-Classifier-From-Scratch-Algorithmics
  
